@@ -36,5 +36,6 @@ To achieve a lifetime membership, a customer must meet or exceed the criteria sp
 <img width="452" alt="Screen Shot 2023-08-27 at 8 59 32 PM" src="https://github.com/yashasvithanai/Airlines-Frequent-Flyer-Membership-System/assets/119455759/61bfd9c2-a003-43d9-8189-deda7492b798">
 
 ## Rewards
+4 possible rewards are available based on membership tier:
 
 <img width="615" alt="Screen Shot 2023-08-27 at 9 01 13 PM" src="https://github.com/yashasvithanai/Airlines-Frequent-Flyer-Membership-System/assets/119455759/70180014-a0ab-469d-8bdd-bb6df84b596f">
