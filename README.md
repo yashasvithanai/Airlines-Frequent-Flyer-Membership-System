@@ -1,10 +1,10 @@
 # Airlines-Frequent-Flyer-Membership-System
 
 ## Business Case
-- You are a Data Analyst for Python Airlines.
-- In return for customer loyalty, Python Airlines is rolling a new frequent-flyer program.
-- You are asked to create a software prototype of membership system. As a prototype, you are not permitted to integrate with the production database which contains all historical customer and flight data.
-- The prototype will determine the correct membership and rewards based on some data input by the user.
+- You are a **Data Analyst** for Python Airlines.
+- In return for customer loyalty, Python Airlines is rolling a new **frequent-flyer program**.
+- You are asked to create a **software prototype** of membership system. As a prototype, you are not permitted to integrate with the production database which contains all historical customer and flight data.
+- The prototype will **determine the correct membership and rewards** based on some data input by the user.
 
 ## Prototype
 
